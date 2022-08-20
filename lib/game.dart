@@ -10,7 +10,7 @@ class Game{
   }
   int doGuess(int num){
     if(num > answer){
-      print('$num is too high');
+      print('$num is too high999999');
       return 0;
     }
     else if(num < answer){
